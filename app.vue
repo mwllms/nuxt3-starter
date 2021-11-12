@@ -1,5 +1,9 @@
+<script setup>
+import './assets/tailwind.css'
+</script>
+
 <template>
   <div>
-    <NuxtWelcome />
+    <NuxtPage />
   </div>
 </template>
